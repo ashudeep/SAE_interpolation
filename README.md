@@ -1,12 +1,7 @@
-An extension of the neural network tutorial code, where I just try to visualize the interpolation between examples in a Sparse Autoencoder at both input as well as deep representation.
+An extension of the neural network tutorial code, where I just try to visualize the interpolation between examples in a Sparse Autoencoder at both input as well as middle layer.
 
-The idea was to inspect the hypothesis presented in the following paper.
-@article{bengio2012better,
-  title={Better mixing via deep representations},
-  author={Bengio, Yoshua and Mesnil, Gr{\'e}goire and Dauphin, Yann and Rifai, Salah},
-  journal={arXiv preprint arXiv:1207.4404},
-  year={2012}
-}
+The idea was to inspect the hypothesis presented in the following paper: 
+[Better mixing via deep representations](http://arxiv.org/abs/1207.4404)
 
 Thanks to the rewrite of the [ufldl tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) done by [jperla](https://github.com/jperla/neural).
 
